@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b3cc7f75-894a-414a-9bd1-0d059bffeb7a)
 
 ![GenAI Roadmap](https://github.com/user-attachments/assets/ac194cc9-b645-484d-952a-85f415fb7ad6)
-
+ 
 
 ![image](https://github.com/user-attachments/assets/656d4b48-0def-4d80-8858-b5e0a741b678)
  
